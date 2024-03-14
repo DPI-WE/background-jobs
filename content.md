@@ -9,7 +9,7 @@ Imagine a scenario in your application where you need to send out a newsletter t
 ## Getting Started with Active Job
 Active Job is a framework for declaring jobs and making them run on a variety of queueing backends. It provides a standard interface for interacting with different job runners such as Sidekiq, Resque, Delayed Job, Solid Queue and more.
 
-To understand Active Job basics and its integration in a Rails application, it's recommended to start with the Active Job Basics guide.
+To understand Active Job basics and its integration in a Rails application, it's recommended to start with the [Active Job Basics guide](https://edgeguides.rubyonrails.org/active_job_basics.html).
 
 ## Key Concepts:
 - **Job**: A class that performs a specific task.
